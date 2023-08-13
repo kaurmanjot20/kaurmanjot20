@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div align="center">
-  <a href="[https://www.example.com/random-image-url](https://drive.google.com/file/d/1unC4AIP1WacgkBQmuHfEchM3yv19IdmF/view?usp=drive_link)">
+  <a href="https://drive.google.com/file/d/1unC4AIP1WacgkBQmuHfEchM3yv19IdmF/view?usp=drive_link">
     <img src="https://drive.google.com/file/d/1unC4AIP1WacgkBQmuHfEchM3yv19IdmF/view?usp=drive_link" alt="Random Image">
     
   </a>
