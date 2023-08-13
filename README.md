@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manjot Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<div align="center">### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) </div>
+
 # 💫 About Me:
 🌱 I’m currently learning JavaScript<br><br>💬 Ask me about CSS and JavaScript<br><br>⚡ Fun fact: Singing is my hobby✨🎶
 
@@ -16,8 +19,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaurmanjot20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmanjot20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+# [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kaurmanjot20) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaurmanjot20&icon=5&color=7)](https://visitcount.itsvg.in)
