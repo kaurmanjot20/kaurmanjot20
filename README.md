@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://www.example.com/random-image-url">
-    <img src="[https://www.example.com/path-to-your-image.jpg](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" alt="Random Image">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Image">
   </a>
 </div>
 
