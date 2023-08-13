@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manjot Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaurmanjot20&label=Profile%20views&color=0e75b6&style=flat" alt="kaurmanjot20" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kaurmanjot20" target="blank"><img src="https://img.shields.io/twitter/follow/kaurmanjot20?logo=twitter&style=for-the-badge" alt="kaurmanjot20" /></a> </p>
-
 # 💫 About Me:
 🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at [https://github.com/kaurmanjot20](https://github.com/kaurmanjot20)<br><br>📝 I regularly write articles on [https://hashnode.com/@kaurmanjot20](https://hashnode.com/@kaurmanjot20)<br><br>💬 Ask me about CSS and JavaScript<br><br>⚡ Fun fact: Singing is my hobby✨🎶
 
