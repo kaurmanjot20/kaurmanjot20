@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://www.example.com/random-image-url">
-    <img src="https://drive.google.com/file/d/15t9Ktb2wQtpdIlmbKfCkIMpTvh5oIc_q/view?usp=drive_link" alt="Random Image">
+    <img src="[https://drive.goog](https://drive.google.com/file/d/1unC4AIP1WacgkBQmuHfEchM3yv19IdmF/view?usp=drive_link)" alt="Random Image">
     
   </a>
 </div>
