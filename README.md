@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manjot Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<div align="center">### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) </div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 💫 About Me:
 🌱 I’m currently learning JavaScript<br><br>💬 Ask me about CSS and JavaScript<br><br>⚡ Fun fact: Singing is my hobby✨🎶
