@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at [https://github.com/kaurmanjot20](https://github.com/kaurmanjot20)<br><br>📝 I regularly write articles on [https://hashnode.com/@kaurmanjot20](https://hashnode.com/@kaurmanjot20)<br><br>💬 Ask me about CSS and JavaScript<br><br>⚡ Fun fact: Singing is my hobby✨🎶
+🌱 I’m currently learning JavaScript<br><br>💬 Ask me about CSS and JavaScript<br><br>⚡ Fun fact: Singing is my hobby✨🎶
 
 
 ## 🌐 Socials:
