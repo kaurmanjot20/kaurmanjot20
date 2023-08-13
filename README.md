@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manjot Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <a href="https://www.example.com/random-image-url">
+    <img src="[https://www.example.com/path-to-your-image.jpg](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" alt="Random Image">
+  </a>
+</div>
 
 # 💫 About Me:
 🌱 I’m currently learning JavaScript<br><br>💬 Ask me about CSS and JavaScript<br><br>⚡ Fun fact: Singing is my hobby✨🎶
