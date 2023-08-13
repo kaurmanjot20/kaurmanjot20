@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manjot Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1unC4AIP1WacgkBQmuHfEchM3yv19IdmF/view?usp=drive_link">
-    <img src="https://drive.google.com/file/d/1unC4AIP1WacgkBQmuHfEchM3yv19IdmF/view?usp=drive_link" alt="Random Image">
-    
-  </a>
-</div>
-
 # 💫 About Me:
 🌱 I’m currently learning JavaScript<br><br>💬 Ask me about CSS and JavaScript<br><br>⚡ Fun fact: Singing is my hobby✨🎶
 
