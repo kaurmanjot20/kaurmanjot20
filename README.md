@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manjot Kaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A tech enthusiast from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning JavaScript<br><br>💬 Ask me about CSS and JavaScript<br><br>⚡ Fun fact: Singing is my hobby✨🎶
+🌱 I’m currently learning ReactJS<br><br>💬 Ask me about Frontend Development<br><br>⚡ Fun fact: Singing is my hobby✨🎶
 
 
 ## 🌐 Socials:
