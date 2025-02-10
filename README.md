@@ -2,11 +2,11 @@
 <h3 align="center">A tech enthusiast from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning ReactJS<br><br>💬 Ask me about Frontend Development<br><br>⚡ Fun fact: Singing is my hobby✨🎶
+🌱 I’m currently exploring GenAI<br><br>💬 Ask me about Web Development<br><br>⚡ Fun fact: My hobbies: Singing✨🎶 and coding/building stuff for fun
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kaurmanjot20)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kaurmanjot20)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@kaurmanjot20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/manjot-kaur-6595a0281)
 
