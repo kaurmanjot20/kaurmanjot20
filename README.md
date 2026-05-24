@@ -15,55 +15,38 @@
 
 
 ## 💻 Tech Stack:
-### 🧑‍💻 Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go" />
+  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Django-000?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis" />
+  <img src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/NGINX-000?style=flat-square&logo=nginx" />
+  <img src="https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions" />
 </p>
-
-
-
-### 🤖 AI / ML
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-</p>
-
-
-### ⚙️ Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
-
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaurmanjot20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaurmanjot20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmanjot20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 
-# [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kaurmanjot20) 
+# <p align="center"> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kaurmanjot20) </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaurmanjot20&label=Profile%20views&color=0e75b6&style=flat" alt="kaurmanjot20" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaurmanjot20&label=Profile%20views&color=0e75b6&style=flat" alt="kaurmanjot20" /> </p> -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
