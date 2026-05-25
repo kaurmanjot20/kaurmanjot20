@@ -1,42 +1,86 @@
-<h1 align="center">Hi 👋, I'm Manjot Kaur</h1>
-<h3 align="center">A girl in tech🧑‍💻 | Learning to learn the right way✨ | Building stuff that solves problems</h3>
+<div align="center">
 
-# 💫 About Me:
-🌱 I’m currently exploring GenAI<br><br>💬 Ask me about Software Development<br><br>👨‍💻 Portfolio [https://www.kaurmanjot.tech/](https://www.kaurmanjot.tech/)
+# Manjot Kaur
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://x.com/kaurmanjot20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaurmanjot20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaurmanjot20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kaurmanjot20/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaurmanjot20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaurmanjot20" height="30" width="40" /></a>
-<a href="https://hashnode.com/@kaurmanjot20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kaurmanjot20" height="30" width="40" /></a>
+*full-stack dev · open source · building things that ship*
 
-</p>
+[![Portfolio](https://img.shields.io/badge/kaurmanjot.tech-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kaurmanjot.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaurmanjot20/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kaurmanjot20)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjotkaur2074@gmail.com)
 
+</div>
 
-## 💻 Tech Stack:
+**50+ GitHub stars in 48hrs** on Inlinea &nbsp;·&nbsp; **800+ users** on CodeBoard &nbsp;·&nbsp; **~15% accuracy gain** @ Samsung R&D &nbsp;·&nbsp; **4+ university departments** on PhD Portal
+
+CS undergrad at Thapar. I build full-stack products end-to-end, from payments to Linux desktop apps to institutional systems used in production. I care that things actually ship and work.
+
+Currently open to **SWE internships/ FTE opportunity** (India / remote). If you're building something interesting, [let's talk](mailto:manjotkaur2074@gmail.com).
+
+--- 
+
+## Projects
+<table width="100%" cellspacing="0" cellpadding="16" border="1">
+<tr>
+<td width="50%" valign="top">
+
+**[Inlinea ↗](https://github.com/kaurmanjot20/inlinea)**
+
+Native Linux PDF annotation editor. First GNOME-native tool of its kind. 50+ stars in 48 hours, active external contributors.
+
+`Python` `GTK4` `Libadwaita` `open source`
+
+</td>
+<td width="50%" valign="top">
+
+**[LifePages ↗](https://lifepages.kaurmanjot.tech/)**
+
+SaaS canvas platform with dual-region billing (India + Global), guest-to-auth flow, preserved canvas state. Solo payments eng.
+
+`Next.js` `Supabase` `Konva.js` `DodoPayments`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[CodeBoard ↗](https://codeboard.ccstiet.com/)**
+
+Daily DSA leaderboard platform at 800+ active users. Own frontend + backend integration. LeetCode stats dashboard = top engagement feature.
+
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**[Thapar PhD Portal ↗](https://phdportal.thapar.edu/)**
+
+Live institutional system across 4+ departments. Role-based workflows for thesis, reviews, and approvals. Moved offline processes online.
+
+`React` `Laravel` `SQL` `production`
+
+</td>
+</tr>
+</table>
+
+## Tech Stack:
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go" />
   <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter" />
   <img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Django-000?style=flat-square&logo=django" />
-  <img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis" />
-  <img src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase" />
   <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" />
   <img src="https://img.shields.io/badge/NGINX-000?style=flat-square&logo=nginx" />
-  <img src="https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud" />
   <img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions" />
 </p>
+
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaurmanjot20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaurmanjot20&theme=dark&hide_border=false)<br/>
