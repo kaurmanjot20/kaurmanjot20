@@ -11,7 +11,7 @@
 
 </div>
 
-**50+ GitHub stars in 48hrs** on Inlinea &nbsp;·&nbsp; **800+ users** on CodeBoard &nbsp;·&nbsp; **~15% accuracy gain** @ Samsung R&D &nbsp;·&nbsp; **4+ university departments** on PhD Portal
+**50+ GitHub stars in 48hrs** on Inlinea &nbsp;·&nbsp; **400+ users** on CodeBoard &nbsp;·&nbsp; **~15% accuracy gain** @ Samsung R&D &nbsp;·&nbsp; **4+ university departments** on PhD Portal
 
 CS undergrad at Thapar. I build full-stack products end-to-end, from payments to Linux desktop apps to institutional systems used in production. I care that things actually ship and work.
 
@@ -46,7 +46,7 @@ SaaS canvas platform with dual-region billing (India + Global), guest-to-auth fl
 
 **[CodeBoard ↗](https://codeboard.ccstiet.com/)**
 
-Daily DSA leaderboard platform at 800+ active users. Own frontend + backend integration. LeetCode stats dashboard = top engagement feature.
+Daily DSA leaderboard platform at 400+ active users. Own frontend + backend integration. LeetCode stats dashboard = top engagement feature.
 
 `React` `Node.js` `MongoDB`
 
