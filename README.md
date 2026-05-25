@@ -81,12 +81,35 @@ Live institutional system across 4+ departments. Role-based workflows for thesis
   <img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions" />
 </p>
 
-<!-- # 📊 GitHub Stats:
+<!--  # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaurmanjot20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaurmanjot20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmanjot20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
+<!-- 
+<p align="center">
+<table>
+<tr>
+<td align="center">
 
+<img
+src="https://github-stats-extended.vercel.app/api?username=kaurmanjot20&rank_icon=default&hide_rank=true&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&ring_color=58A6FF&border_radius=8"
+width="380"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+src="https://github-stats-extended.vercel.app/api/top-langs?username=kaurmanjot20&layout=donut-vertical&langs_count=8&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&border_radius=14"
+width="200"
+/>
+
+</td>
+</tr>
+</table>
+--> 
 # <p align="center"> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kaurmanjot20) </p>
 
 
